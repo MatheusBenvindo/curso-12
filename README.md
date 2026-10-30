@@ -1,3 +1,12 @@
+<!-- course-navigation:start -->
+<p>
+  <a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md#testes-e-qualidade"><img alt="Índice de materiais" src="https://img.shields.io/badge/MATERIAIS-Testes%20e%20qualidade-005DAA?style=flat-square" /></a>
+</p>
+
+[← Catálogo de cursos e projetos](https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md) · [Perfil](https://github.com/MatheusBenvindo)
+
+<!-- course-navigation:end -->
+
 # Curso 12 — testes de integração com apoio de GenAI
 
 Exercício didático ligado à atuação de um instrutor de Tecnologia e Desenvolvimento de Sistemas. Uma API recebe três notas e chama um módulo de cálculo de médias. As regras são fictícias e não representam critérios oficiais do SENAI.
@@ -41,3 +50,15 @@ Foram usados um prompt zero-shot para organizar cenários a partir do contrato e
 Resultado: 19 testes aprovados em Python 3.11. A primeira tentativa de execução foi impedida pelas permissões de rede do ambiente; após autorização de execução local, a mesma suíte passou. Não houve correção de código motivada por falha funcional nessa execução.
 
 Todo o conteúdo foi preparado com auxílio de IA, usando dados fictícios e sem credenciais.
+
+
+## Navegação dos materiais
+
+| Pasta ou arquivo | Acesso |
+|---|---|
+| PROMPTS.md | [Abrir arquivo](./PROMPTS.md) |
+| RESULTADOS.md | [Abrir arquivo](./RESULTADOS.md) |
+| api.py | [Abrir arquivo](./api.py) |
+| media.py | [Abrir arquivo](./media.py) |
+| test_integracao.py | [Abrir arquivo](./test_integracao.py) |
+
